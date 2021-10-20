@@ -12,8 +12,8 @@ Het simpelste en meest gebruikte is een for-loop waarbij we beginnen met een num
 
  1. We beginnen met een variabele die bijv. op 10 staat: `var i = 10;`
  2. We loopen zolang als deze variabele niet 0 is: `i > 0;`
- 3. Elke loop willen we -1 doen op deze variabele: `i = i - 1;`
- 	*`i = i - 1;` kan korter geschreven worden, zoals `i -= 1`, maar omdat het 1 is, kan je ook `i--` gebruiken. In het volgende voorbeeld gebruik ik `i--` omdat dat het gebruikelijkst is.
+ 3. Elke loop willen we -1 doen op deze variabele: `i = i - 1;` \
+ *`i = i - 1;` kan korter geschreven worden, zoals `i -= 1`, maar omdat het 1 is, kan je ook `i--` gebruiken. In het volgende voorbeeld gebruik ik `i--` omdat dat het gebruikelijkst is.
 
 Of in code:
 
