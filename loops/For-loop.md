@@ -1,6 +1,6 @@
 # For-loop: wanneer je al weet hoe vaak je wil herhalen.
 
-Een foor-loop gebruik je vooral als je al weet hoe vaak je wil herhalen. De meeste gebruikelijk vorm van een for-loop heeft te maken met nummers. Een for-loop bestaat uit 3 delen:
+Een for-loop gebruik je vooral als je al weet hoe vaak je wil herhalen. De meeste gebruikelijk vorm van een for-loop heeft te maken met nummers. Een for-loop bestaat uit 3 delen:
 
  1. We beginnen met [iets]
  2. We loopen zolang [iets] true is (m.a.w.: condition)
@@ -11,7 +11,7 @@ Een foor-loop gebruik je vooral als je al weet hoe vaak je wil herhalen. De mees
 Het simpelste en meest gebruikte is een for-loop waarbij we beginnen met een nummer, en zolang dat nummer niet een bepaald ander nummer bereikt heeft loopen we. In dit geval:
 
  1. We beginnen met een variabele die bijv. op 10 staat: `var i = 10;`
- 2. We loopen zolang als deze variabele niet 0 is: `i > 0;`
+ 2. We loopen zolang als deze variabele groter dan 0 is: `i > 0;`
  3. Elke loop willen we -1 doen op deze variabele: `i = i - 1;` \
  *`i = i - 1;` kan korter geschreven worden, zoals `i -= 1`, maar omdat het 1 is, kan je ook `i--` gebruiken. In het volgende voorbeeld gebruik ik `i--` omdat dat het gebruikelijkst is.*
 
