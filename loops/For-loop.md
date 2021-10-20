@@ -64,3 +64,5 @@ Schrijf een for-loop, waarbij de uitkomst als volgt is:
 8
 10
 ```
+
+Extra punt als je **geen** berekeningen doet tussen de `{}` van de for-loop.
