@@ -66,3 +66,16 @@ Schrijf een for-loop, waarbij de uitkomst als volgt is:
 ```
 
 Extra punt als je **geen** berekeningen doet tussen de `{}` van de for-loop.
+
+## Bonus info
+
+Hoewel in letterlijk elk online voorbeeld de variabele `var i = 1;` wordt gebruikt, de variabele hoeft geen `i` te heten. `for(var horizontal = 10; horizontal < 700; horizontal++)` werkt ook prima.
+
+En hoewel we in elk statement elke keer dezelfde variabele gebruiken, ook dat is niet perse nodig! Ook dit werkt:
+
+```js
+var double = 0;
+for(var i = 1; double < 400; i++) {
+	double = 2 * i;
+}
+```
