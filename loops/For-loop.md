@@ -2,9 +2,9 @@
 
 Een foor-loop gebruik je vooral als je al weet hoe vaak je wil herhalen. De meeste gebruikelijk vorm van een for-loop heeft te maken met nummers. Een for-loop bestaat uit 3 delen:
 
- 1. We beginnen met <iets>
- 2. We loopen zolang <iets> true is (m.a.w.: condition)
- 3. Elke loop doen we <iets>
+ 1. We beginnen met [iets]
+ 2. We loopen zolang [iets] true is (m.a.w.: condition)
+ 3. Elke loop doen we [iets]
 
 ## Voorbeeld
 
