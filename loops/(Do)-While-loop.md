@@ -31,7 +31,7 @@ Als je wil dat de condition NA de loop wordt gecontroleerd, kijk dan hieronder b
 
 Kopieer dit stukje code en schrijf je opdracht er onder.
 
-```
+```js
 // Deze functie genereerd een nummer tussen 1 en 10 (inclusief 1 en 10)
 function randomNumber() {
 	var generated = Math.floor(Math.random() * 10) + 1;
