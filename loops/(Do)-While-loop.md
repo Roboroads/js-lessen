@@ -1,6 +1,6 @@
 # While-loop: Wanneer je **voor** elke iteratie gaat kijken of je door wil gaan met loopen
 
-Soms weet je in de loop pas of je door wil gaan of niet. Bijv. wanneer je resultaten ophaalt uit een database maar niet precies weet hoeveel rijen er zijn. Een while-loop heeft maar 1 onderdeel, wat nummer 2 was bij de for-loop: "We loopen zolang <iets> true is".
+Soms weet je in de loop pas of je door wil gaan of niet. Bijv. wanneer je resultaten ophaalt uit een database maar niet precies weet hoeveel rijen er zijn. Een while-loop heeft maar 1 onderdeel, wat nummer 2 was bij de for-loop: "We loopen zolang [iets] true is".
 
 
 ## Voorbeeld
